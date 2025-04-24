@@ -1,0 +1,22 @@
+.header{
+  width: 100vw;
+  height: 10vh;
+  background-color: rgb(170, 82, 82);
+  color: rgb(182, 161, 161);
+  text-align: center;
+}
+.footer{
+  width: 100vw;
+  height: 5vh;
+  background-color: rgb(132, 141, 107);
+  color: white;
+  text-align: center;
+}
+.content{
+  width: 100vw;
+  height: 85vh;
+  background-color: gainsboro;
+  color: black;
+  text-align: center;
+  overflow-y:scroll;
+}
